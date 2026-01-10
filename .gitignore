@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Claude Code local settings
+.claude/
+
+# Binary archives
+*.zip
+
+# Excluded content
+conveyancing-expert-system/
+REMEDIATION-PLAN.md
