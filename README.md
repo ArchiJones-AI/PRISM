@@ -4,6 +4,8 @@
 
 A methodology for transforming monolithic system prompts into Claude Projects-optimised knowledge architectures.
 
+![PRISM Overview](assets/prism-overview.png)
+
 ## The Problem
 
 Large system prompts hit Claude's context limits and degrade retrieval accuracy. Claude Projects solves this with knowledge files, but poorly structured files lead to retrieval failures—Claude fetches the wrong content or misses relevant information entirely.
